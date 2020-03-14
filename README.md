@@ -13,6 +13,7 @@ Para simplificar o desafio, serão utilizados valores fictícios e não os valor
 
 ## Fórmula do cálculo
 
+
 ### Primeiro passo
 Primeiro deve ser calculado o valor do desconto do INSS, o mesmo deve ser calculado conforme a tabela abaixo:
 
